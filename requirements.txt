@@ -1,3 +1,9 @@
+streamlit
+pandas
 fastapi
 uvicorn
 pydantic
+<<<<<<< HEAD:requirements.txt
+=======
+requests
+>>>>>>> 5c9fd24 (Update employee management application):requriments.txt
